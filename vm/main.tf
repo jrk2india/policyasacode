@@ -36,5 +36,6 @@ resource "google_compute_instance" "demo_vm" {
     environment = var.environment
     managed_by  = "terraform"
     purpose     = "atlantis-demo"
+    user        = "Kyndryl"
   }
 }
