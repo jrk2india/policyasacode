@@ -1,5 +1,4 @@
-# Policy as Code
-
+# Policy as Code - Demo
 Terraform configuration for provisioning a demonstration Google Compute Engine virtual machine.
 
 ## Structure
